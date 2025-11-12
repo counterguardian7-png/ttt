@@ -1,0 +1,5 @@
+{
+  "name": "High Voltage Impulse Generator Simulator",
+  "description": "An interactive web application to simulate a Marx-type high voltage impulse generator. Users can configure circuit parameters, generate the corresponding voltage waveform, and view key characteristics like peak voltage, front time, and tail time. It also features an AI-powered explanation of the results using the Gemini API.",
+  "requestFramePermissions": []
+}
